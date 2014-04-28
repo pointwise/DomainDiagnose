@@ -3,7 +3,10 @@
 This Glyph script computes diagnostic information about all enabled domains in the grid and prints the results to the shell window. The functions to be computed and their minimum and maximum values are specified using a Tk interface.
 
 ![ScriptImage](https://raw.github.com/pointwise/DomainDiagnose/master/tk.png)
-![OutputImage](https://raw.github.com/pointwise/DomainDiagnose/master/output.png)
+
+The resulting text report is printed to Pointwise's messages window. 
+
+![ScriptImage](https://raw.github.com/pointwise/DomainDiagnose/master/output.png)
 
 ## Disclaimer
 Scripts are freely provided. They are not supported products of
